@@ -1,18 +1,28 @@
 import java.util.*;
 class Solution {
     public int[] sortedSquares(int[] nums) {
-        
-        List<Integer> ans = new ArrayList<>();
+        int [] ans = new int [nums.length];
+        int start = 0;
+        int end = nums.length-1;
+        int ptr = ans.length -1;
 
-        for(int i = 0; i < nums.length; i++){
-            ans.add(nums[i]*nums[i]);
-
+        while (start<=end){
+            int ss = nums[start]*nums[start];
+            int es = nums[end]*nums[end];
+            if (ss>es){
+                ans[ptr]=ss;
+                start++;
+            }
+            else {
+                ans[ptr]=es;
+                end--;
+            }
+            ptr --;
         }
 
-        Collections.sort(ans);
+        return ans;
 
-        int [] anss = ans.stream().mapToInt(Integer::intValue).toArray();
-        return anss;
+        
 
 
 
