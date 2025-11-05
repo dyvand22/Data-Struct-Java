@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/dyvand22/Data-Struct-Java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dyvand22/Data-Struct-Java/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/dyvand22/Data-Struct-Java/tree/master/0234-palindrome-linked-list) |
+| [0874-backspace-string-compare](https://github.com/dyvand22/Data-Struct-Java/tree/master/0874-backspace-string-compare) |
 ## Design
 |  |
 | ------- |
@@ -25,8 +26,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/dyvand22/Data-Struct-Java/tree/master/0234-palindrome-linked-list) |
+| [0874-backspace-string-compare](https://github.com/dyvand22/Data-Struct-Java/tree/master/0874-backspace-string-compare) |
 ## Recursion
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/dyvand22/Data-Struct-Java/tree/master/0234-palindrome-linked-list) |
+## String
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/dyvand22/Data-Struct-Java/tree/master/0874-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/dyvand22/Data-Struct-Java/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
