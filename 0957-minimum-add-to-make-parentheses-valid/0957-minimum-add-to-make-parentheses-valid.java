@@ -1,5 +1,6 @@
 class Solution {
     public int minAddToMakeValid(String s) {
+        //   (()))
         int open = 0;
         int closed = 0;
         for(char x : s.toCharArray()){
@@ -7,7 +8,7 @@ class Solution {
                 open++;
 
             }
-            else if(open>0){
+            else if(x==')'&&open>0){
                 open--;
             }
             else closed ++;
