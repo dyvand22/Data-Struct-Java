@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/dyvand22/Data-Struct-Java/tree/master/0234-palindrome-linked-list) |
 | [0874-backspace-string-compare](https://github.com/dyvand22/Data-Struct-Java/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dyvand22/Data-Struct-Java/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/dyvand22/Data-Struct-Java/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dyvand22/Data-Struct-Java/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/dyvand22/Data-Struct-Java/tree/master/1666-make-the-string-great) |
 ## Design
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0874-backspace-string-compare](https://github.com/dyvand22/Data-Struct-Java/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dyvand22/Data-Struct-Java/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/dyvand22/Data-Struct-Java/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/dyvand22/Data-Struct-Java/tree/master/1666-make-the-string-great) |
 ## Simulation
 |  |
