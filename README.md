@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/dyvand22/Data-Struct-Java/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/dyvand22/Data-Struct-Java/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/dyvand22/Data-Struct-Java/tree/master/0874-backspace-string-compare) |
+| [0937-online-stock-span](https://github.com/dyvand22/Data-Struct-Java/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dyvand22/Data-Struct-Java/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/dyvand22/Data-Struct-Java/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dyvand22/Data-Struct-Java/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/dyvand22/Data-Struct-Java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dyvand22/Data-Struct-Java/tree/master/0232-implement-queue-using-stacks) |
+| [0937-online-stock-span](https://github.com/dyvand22/Data-Struct-Java/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -56,9 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/dyvand22/Data-Struct-Java/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/dyvand22/Data-Struct-Java/tree/master/0937-online-stock-span) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dyvand22/Data-Struct-Java/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Greedy
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dyvand22/Data-Struct-Java/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/dyvand22/Data-Struct-Java/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
