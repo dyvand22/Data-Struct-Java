@@ -22,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/dyvand22/Data-Struct-Java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dyvand22/Data-Struct-Java/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/dyvand22/Data-Struct-Java/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/dyvand22/Data-Struct-Java/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/dyvand22/Data-Struct-Java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dyvand22/Data-Struct-Java/tree/master/0232-implement-queue-using-stacks) |
+| [0969-number-of-recent-calls](https://github.com/dyvand22/Data-Struct-Java/tree/master/0969-number-of-recent-calls) |
 ## Linked List
 |  |
 | ------- |
@@ -73,4 +75,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/dyvand22/Data-Struct-Java/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/dyvand22/Data-Struct-Java/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
