@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/dyvand22/Data-Struct-Java/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dyvand22/Data-Struct-Java/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/dyvand22/Data-Struct-Java/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Monotonic Stack
 |  |
 | ------- |
