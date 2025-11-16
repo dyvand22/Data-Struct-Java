@@ -1,23 +1,20 @@
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
-        int left = 0;
-        int right = numbers.length-1;
+        HashMap<Integer, Integer> map = new HashMap<>();
+        int[] res = new int[2];
 
-        while (left < right){
-            int sum = numbers[left] + numbers[right];
-            if(sum==target){
-                return new int [] { left+1, right+1};
+        for (int i = 0; i < numbers.length; i++) {
+            int complement = target - numbers[i];
+
+            if (map.containsKey(complement)) {
+                res[0] = map.get(complement) + 1; // 1-indexed
+                res[1] = i + 1;
+                return res;
             }
-            else if (sum < target){
-                left++;
-            }
-            else{
-                right --;
-            }
+
+            map.put(numbers[i], i);
         }
 
-        return new int []{-1,-1};
-
-
+        return res; // will never reach here for valid input
     }
 }
