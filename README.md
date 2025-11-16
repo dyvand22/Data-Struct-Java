@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dyvand22/Data-Struct-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/dyvand22/Data-Struct-Java/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/dyvand22/Data-Struct-Java/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/dyvand22/Data-Struct-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/dyvand22/Data-Struct-Java/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/dyvand22/Data-Struct-Java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/dyvand22/Data-Struct-Java/tree/master/0344-reverse-string) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dyvand22/Data-Struct-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/dyvand22/Data-Struct-Java/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/dyvand22/Data-Struct-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/dyvand22/Data-Struct-Java/tree/master/0283-move-zeroes) |
 | [0739-daily-temperatures](https://github.com/dyvand22/Data-Struct-Java/tree/master/0739-daily-temperatures) |
 | [1019-squares-of-a-sorted-array](https://github.com/dyvand22/Data-Struct-Java/tree/master/1019-squares-of-a-sorted-array) |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/dyvand22/Data-Struct-Java/tree/master/0075-sort-colors) |
 | [1019-squares-of-a-sorted-array](https://github.com/dyvand22/Data-Struct-Java/tree/master/1019-squares-of-a-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/dyvand22/Data-Struct-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
