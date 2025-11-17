@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/dyvand22/Data-Struct-Java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/dyvand22/Data-Struct-Java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dyvand22/Data-Struct-Java/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/dyvand22/Data-Struct-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dyvand22/Data-Struct-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0874-backspace-string-compare](https://github.com/dyvand22/Data-Struct-Java/tree/master/0874-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/dyvand22/Data-Struct-Java/tree/master/1019-squares-of-a-sorted-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/dyvand22/Data-Struct-Java/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dyvand22/Data-Struct-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/dyvand22/Data-Struct-Java/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/dyvand22/Data-Struct-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dyvand22/Data-Struct-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0739-daily-temperatures](https://github.com/dyvand22/Data-Struct-Java/tree/master/0739-daily-temperatures) |
 | [1019-squares-of-a-sorted-array](https://github.com/dyvand22/Data-Struct-Java/tree/master/1019-squares-of-a-sorted-array) |
@@ -102,15 +104,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/dyvand22/Data-Struct-Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dyvand22/Data-Struct-Java/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/dyvand22/Data-Struct-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dyvand22/Data-Struct-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/dyvand22/Data-Struct-Java/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dyvand22/Data-Struct-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/dyvand22/Data-Struct-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dyvand22/Data-Struct-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/dyvand22/Data-Struct-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dyvand22/Data-Struct-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
