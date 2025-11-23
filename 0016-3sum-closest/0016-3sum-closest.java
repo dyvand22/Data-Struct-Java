@@ -1,35 +1,30 @@
 class Solution {
     public int threeSumClosest(int[] nums, int target) {
-        Arrays.sort(nums);
-        HashMap<Integer, Integer> map = new HashMap<>();
-        
-        for (int i = 0; i < nums.length - 2; i++) {
-            int left = i + 1;
-            int right = nums.length - 1;
+       int res = 0;
+       int closest = Integer.MAX_VALUE;
+       Arrays.sort(nums);
+       for(int i = 0; i < nums.length-2; i++){
+        int left = i+1;
+        int right = nums.length-1;
+        while(left<right){
+            int sum = nums[i]+nums[right]+nums[left];
+            if(sum==target){
+                return target;
+            }
+            else if(sum<target){
+                left++;
+            }
+            else if(sum>target){
+                right--;
 
-            while (left < right) {
-                int sum = nums[i] + nums[left] + nums[right];
-                int diff = Math.abs(sum - target);
-
-                map.put(sum, diff);
-
-                if (sum == target) return sum;
-                else if (sum > target) right--;
-                else left++;
+            }
+            int diff = Math.abs(target-sum);
+            if(closest>diff){
+                closest=diff;
+                res=sum;
             }
         }
-
-        // find sum with minimum difference
-        int closestSum = Integer.MAX_VALUE;
-        int minDiff = Integer.MAX_VALUE;
-
-        for (int key : map.keySet()) {
-            if (map.get(key) < minDiff) {
-                minDiff = map.get(key);
-                closestSum = key;
-            }
-        }
-
-        return closestSum;
+       }
+       return res;
     }
 }
