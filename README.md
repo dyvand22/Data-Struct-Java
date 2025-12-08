@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/dyvand22/Data-Struct-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/dyvand22/Data-Struct-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dyvand22/Data-Struct-Java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/dyvand22/Data-Struct-Java/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/dyvand22/Data-Struct-Java/tree/master/0874-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/dyvand22/Data-Struct-Java/tree/master/1019-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/dyvand22/Data-Struct-Java/tree/master/1768-merge-strings-alternately) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/dyvand22/Data-Struct-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/dyvand22/Data-Struct-Java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dyvand22/Data-Struct-Java/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/dyvand22/Data-Struct-Java/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/dyvand22/Data-Struct-Java/tree/master/0394-decode-string) |
 | [0874-backspace-string-compare](https://github.com/dyvand22/Data-Struct-Java/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dyvand22/Data-Struct-Java/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dyvand22/Data-Struct-Java/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/dyvand22/Data-Struct-Java/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
 | ------- |
