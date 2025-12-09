@@ -18,6 +18,7 @@ class Solution {
             if(isVow(s.charAt(i))) count++;
             if(isVow(s.charAt(i-k))) count--;
             maxcount = Math.max(maxcount,count);
+            if (maxcount == k) return k;
         }
         return maxcount;
        
