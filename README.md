@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/dyvand22/Data-Struct-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dyvand22/Data-Struct-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0605-can-place-flowers](https://github.com/dyvand22/Data-Struct-Java/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/dyvand22/Data-Struct-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/dyvand22/Data-Struct-Java/tree/master/0739-daily-temperatures) |
 | [0940-fruit-into-baskets](https://github.com/dyvand22/Data-Struct-Java/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/dyvand22/Data-Struct-Java/tree/master/1019-squares-of-a-sorted-array) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dyvand22/Data-Struct-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/dyvand22/Data-Struct-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/dyvand22/Data-Struct-Java/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/dyvand22/Data-Struct-Java/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/dyvand22/Data-Struct-Java/tree/master/1046-max-consecutive-ones-iii) |
