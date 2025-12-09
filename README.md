@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/dyvand22/Data-Struct-Java/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/dyvand22/Data-Struct-Java/tree/master/1046-max-consecutive-ones-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dyvand22/Data-Struct-Java/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/dyvand22/Data-Struct-Java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dyvand22/Data-Struct-Java/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/dyvand22/Data-Struct-Java/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dyvand22/Data-Struct-Java/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/dyvand22/Data-Struct-Java/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/dyvand22/Data-Struct-Java/tree/master/1046-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dyvand22/Data-Struct-Java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/dyvand22/Data-Struct-Java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Counting
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/dyvand22/Data-Struct-Java/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/dyvand22/Data-Struct-Java/tree/master/0392-is-subsequence) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/dyvand22/Data-Struct-Java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
 |  |
 | ------- |
