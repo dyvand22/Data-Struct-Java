@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/dyvand22/Data-Struct-Java/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/dyvand22/Data-Struct-Java/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/dyvand22/Data-Struct-Java/tree/master/1046-max-consecutive-ones-iii) |
+| [1207-unique-number-of-occurrences](https://github.com/dyvand22/Data-Struct-Java/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dyvand22/Data-Struct-Java/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/dyvand22/Data-Struct-Java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dyvand22/Data-Struct-Java/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/dyvand22/Data-Struct-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0940-fruit-into-baskets](https://github.com/dyvand22/Data-Struct-Java/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/dyvand22/Data-Struct-Java/tree/master/1034-subarrays-with-k-different-integers) |
+| [1207-unique-number-of-occurrences](https://github.com/dyvand22/Data-Struct-Java/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/dyvand22/Data-Struct-Java/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/dyvand22/Data-Struct-Java/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Sliding Window
