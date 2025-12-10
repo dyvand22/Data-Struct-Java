@@ -1,14 +1,16 @@
 class Solution {
     public boolean uniqueOccurrences(int[] arr) {
-        Map <Integer,Integer> map = new HashMap<>();
 
-        for(int i = 0; i<arr.length; i++){
-            map.put(arr[i],map.getOrDefault(arr[i],0)+1);
-        
+        // Step 1: count occurrences using HashMap
+        Map<Integer, Integer> freq = new HashMap<>();
+        for (int x : arr) {
+            freq.put(x, freq.getOrDefault(x, 0) + 1);
         }
 
-        Set <Integer> freqSet = new HashSet<>(map.values());
-        return freqSet.size()==map.size();
-        
+        // Step 2: store frequencies in a HashSet
+        Set<Integer> set = new HashSet<>(freq.values());
+
+        // if sizes differ → duplicate frequencies exist
+        return set.size() == freq.size();
     }
 }
