@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/dyvand22/Data-Struct-Java/tree/master/0234-palindrome-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dyvand22/Data-Struct-Java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/dyvand22/Data-Struct-Java/tree/master/1019-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/dyvand22/Data-Struct-Java/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/dyvand22/Data-Struct-Java/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dyvand22/Data-Struct-Java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
