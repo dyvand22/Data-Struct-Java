@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/dyvand22/Data-Struct-Java/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/dyvand22/Data-Struct-Java/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dyvand22/Data-Struct-Java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1657-determine-if-two-strings-are-close](https://github.com/dyvand22/Data-Struct-Java/tree/master/1657-determine-if-two-strings-are-close) |
 | [1666-make-the-string-great](https://github.com/dyvand22/Data-Struct-Java/tree/master/1666-make-the-string-great) |
 | [1768-merge-strings-alternately](https://github.com/dyvand22/Data-Struct-Java/tree/master/1768-merge-strings-alternately) |
 ## Simulation
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/dyvand22/Data-Struct-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dyvand22/Data-Struct-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/dyvand22/Data-Struct-Java/tree/master/1019-squares-of-a-sorted-array) |
+| [1657-determine-if-two-strings-are-close](https://github.com/dyvand22/Data-Struct-Java/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/dyvand22/Data-Struct-Java/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Binary Search
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/dyvand22/Data-Struct-Java/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/dyvand22/Data-Struct-Java/tree/master/1034-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/dyvand22/Data-Struct-Java/tree/master/1207-unique-number-of-occurrences) |
+| [1657-determine-if-two-strings-are-close](https://github.com/dyvand22/Data-Struct-Java/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/dyvand22/Data-Struct-Java/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/dyvand22/Data-Struct-Java/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Sliding Window
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/dyvand22/Data-Struct-Java/tree/master/1034-subarrays-with-k-different-integers) |
+| [1657-determine-if-two-strings-are-close](https://github.com/dyvand22/Data-Struct-Java/tree/master/1657-determine-if-two-strings-are-close) |
 ## Prefix Sum
 |  |
 | ------- |
