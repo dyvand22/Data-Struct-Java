@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/dyvand22/Data-Struct-Java/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/dyvand22/Data-Struct-Java/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/dyvand22/Data-Struct-Java/tree/master/0394-decode-string) |
+| [0735-asteroid-collision](https://github.com/dyvand22/Data-Struct-Java/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/dyvand22/Data-Struct-Java/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/dyvand22/Data-Struct-Java/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/dyvand22/Data-Struct-Java/tree/master/0937-online-stock-span) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/dyvand22/Data-Struct-Java/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/dyvand22/Data-Struct-Java/tree/master/0874-backspace-string-compare) |
 | [2352-equal-row-and-column-pairs](https://github.com/dyvand22/Data-Struct-Java/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/dyvand22/Data-Struct-Java/tree/master/2390-removing-stars-from-a-string) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/dyvand22/Data-Struct-Java/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/dyvand22/Data-Struct-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/dyvand22/Data-Struct-Java/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/dyvand22/Data-Struct-Java/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/dyvand22/Data-Struct-Java/tree/master/0739-daily-temperatures) |
 | [0940-fruit-into-baskets](https://github.com/dyvand22/Data-Struct-Java/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/dyvand22/Data-Struct-Java/tree/master/1019-squares-of-a-sorted-array) |
