@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/dyvand22/Data-Struct-Java/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/dyvand22/Data-Struct-Java/tree/master/1732-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dyvand22/Data-Struct-Java/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/dyvand22/Data-Struct-Java/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/dyvand22/Data-Struct-Java/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/dyvand22/Data-Struct-Java/tree/master/1034-subarrays-with-k-different-integers) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/dyvand22/Data-Struct-Java/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/dyvand22/Data-Struct-Java/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
