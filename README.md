@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dyvand22/Data-Struct-Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dyvand22/Data-Struct-Java/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dyvand22/Data-Struct-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/dyvand22/Data-Struct-Java/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/dyvand22/Data-Struct-Java/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/dyvand22/Data-Struct-Java/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/dyvand22/Data-Struct-Java/tree/master/0334-increasing-triplet-subsequence) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/dyvand22/Data-Struct-Java/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/dyvand22/Data-Struct-Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dyvand22/Data-Struct-Java/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/dyvand22/Data-Struct-Java/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/dyvand22/Data-Struct-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dyvand22/Data-Struct-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/dyvand22/Data-Struct-Java/tree/master/1019-squares-of-a-sorted-array) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dyvand22/Data-Struct-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/dyvand22/Data-Struct-Java/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/dyvand22/Data-Struct-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dyvand22/Data-Struct-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0940-fruit-into-baskets](https://github.com/dyvand22/Data-Struct-Java/tree/master/0940-fruit-into-baskets) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/dyvand22/Data-Struct-Java/tree/master/0169-majority-element) |
 | [1034-subarrays-with-k-different-integers](https://github.com/dyvand22/Data-Struct-Java/tree/master/1034-subarrays-with-k-different-integers) |
 | [1657-determine-if-two-strings-are-close](https://github.com/dyvand22/Data-Struct-Java/tree/master/1657-determine-if-two-strings-are-close) |
 ## Prefix Sum
@@ -234,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/dyvand22/Data-Struct-Java/tree/master/2352-equal-row-and-column-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dyvand22/Data-Struct-Java/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
