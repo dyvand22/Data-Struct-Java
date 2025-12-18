@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/dyvand22/Data-Struct-Java/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/dyvand22/Data-Struct-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dyvand22/Data-Struct-Java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/dyvand22/Data-Struct-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/dyvand22/Data-Struct-Java/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/dyvand22/Data-Struct-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/dyvand22/Data-Struct-Java/tree/master/0724-find-pivot-index) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/dyvand22/Data-Struct-Java/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/dyvand22/Data-Struct-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dyvand22/Data-Struct-Java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/dyvand22/Data-Struct-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/dyvand22/Data-Struct-Java/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/dyvand22/Data-Struct-Java/tree/master/1034-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/dyvand22/Data-Struct-Java/tree/master/1207-unique-number-of-occurrences) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/dyvand22/Data-Struct-Java/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/dyvand22/Data-Struct-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/dyvand22/Data-Struct-Java/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/dyvand22/Data-Struct-Java/tree/master/1046-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/dyvand22/Data-Struct-Java/tree/master/1732-find-the-highest-altitude) |
