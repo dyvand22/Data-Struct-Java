@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/dyvand22/Data-Struct-Java/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/dyvand22/Data-Struct-Java/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/dyvand22/Data-Struct-Java/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/dyvand22/Data-Struct-Java/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/dyvand22/Data-Struct-Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dyvand22/Data-Struct-Java/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dyvand22/Data-Struct-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dyvand22/Data-Struct-Java/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dyvand22/Data-Struct-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/dyvand22/Data-Struct-Java/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/dyvand22/Data-Struct-Java/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/dyvand22/Data-Struct-Java/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/dyvand22/Data-Struct-Java/tree/master/0349-intersection-of-two-arrays) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/dyvand22/Data-Struct-Java/tree/master/0073-set-matrix-zeroes) |
 | [2352-equal-row-and-column-pairs](https://github.com/dyvand22/Data-Struct-Java/tree/master/2352-equal-row-and-column-pairs) |
 ## Divide and Conquer
 |  |
